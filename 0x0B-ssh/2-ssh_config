@@ -1,0 +1,5 @@
+# ssh config file
+Host 44.192.38.3
+      PasswordAuthentication no
+      IdentifyFile ~/.ssh/school
+ssh e3e88b830d4d@e3e88b830d4d.2eaa3951.alx-cod.online
